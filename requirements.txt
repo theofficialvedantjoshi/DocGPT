@@ -1,5 +1,5 @@
 langchain
 openai
-FAISS
+faiss-cpu
 streamlit
 PyPDF2
